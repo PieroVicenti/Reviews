@@ -14,3 +14,6 @@ A simple project that can be considered for review implementation in other bigge
 ## Sample picture 
 ![SamplePic](https://user-images.githubusercontent.com/91989821/148703307-48fffcf2-803b-421f-a35a-a7e11f7fbc18.png)
 
+## Random Review example
+![pic2](https://user-images.githubusercontent.com/91989821/149022013-b31476a7-caa6-4b29-8118-0d18556f15af.png)
+
