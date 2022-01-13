@@ -4,7 +4,7 @@ https://pierovicenti.github.io/Reviews/
 
 Project purely created with the aim of exploring more React features and functionalities, not forgetting about the style (icons have been imported from the React-icons library).
 
-This project showes a number of reviews, showing some of the reviewers' details too (Picture and name).
+This project shows a number of reviews, showing some of the reviewers' details too (Picture and name).
 
 I have simply played with the buttons' functionalities, there three buttons and one of them allows the user to see a random review every time the button is clicked.
 
